@@ -1,12 +1,12 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Pivx
-Comment=Pivx P2P Cryptocurrency
-Comment[fr]=Pivx, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Pivx, eşten eşe kriptografik sanal para birimi
-Exec=pivx-qt %u
+Name=boom
+Comment=boom P2P Cryptocurrency
+Comment[fr]=boom, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=boom, eşten eşe kriptografik sanal para birimi
+Exec=boom-qt %u
 Terminal=false
 Type=Application
-Icon=pivx128
-MimeType=x-scheme-handler/pivx;
+Icon=boom128
+MimeType=x-scheme-handler/boom;
 Categories=Office;Finance;
