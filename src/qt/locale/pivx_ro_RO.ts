@@ -180,6 +180,6 @@
     </message>
     </context>
 <context>
-    <name>pivx-core</name>
+    <name>boom-core</name>
     </context>
 </TS>

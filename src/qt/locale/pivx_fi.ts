@@ -62,12 +62,12 @@
         <translation>Vastaanottavat osoitteet</translation>
     </message>
     <message>
-        <source>These are your PIVX addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Nämä ovat sinun PIVX osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
+        <source>These are your boom addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Nämä ovat sinun boom osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
     </message>
     <message>
-        <source>These are your PIVX addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Nämä ovat sinun PIVX osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
+        <source>These are your boom addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Nämä ovat sinun boom osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -164,16 +164,16 @@
         <translation>Vahvista lompakon salaus</translation>
     </message>
     <message>
-        <source>PIVX will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your PIVs from being stolen by malware infecting your computer.</source>
-        <translation>PIVX sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella PIVien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
+        <source>boom will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BOOs from being stolen by malware infecting your computer.</source>
+        <translation>boom sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella BOOien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Oletko varma että tahdot salata lompakkosi?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR PIV&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja unohdat salausavaimesi, &lt;b&gt;menetät kaikki PIVisi&lt;/b&gt;</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BOO&lt;/b&gt;!</source>
+        <translation>Varoitus: Jos salaat lompakkosi ja unohdat salausavaimesi, &lt;b&gt;menetät kaikki BOOisi&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -227,8 +227,8 @@
         <translation>&amp;BIP 38 Salaus</translation>
     </message>
     <message>
-        <source>Enter a Pivx Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Syötä Pivx osoite, jonnka tahtoisit salata käyttäen BIP 38.
+        <source>Enter a boom Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Syötä boom osoite, jonnka tahtoisit salata käyttäen BIP 38.
 Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityisavaimen.</translation>
     </message>
     <message>
@@ -236,8 +236,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Osoite:</translation>
     </message>
     <message>
-        <source>The PIVX address to sign the message with</source>
-        <translation>PIVX osoite, jolla viesti allekirjoitetaan</translation>
+        <source>The boom address to sign the message with</source>
+        <translation>boom osoite, jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -268,8 +268,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Kopioi nykyinen allekirjoitus järjestelmän leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this PIVX address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän PIVX osoitteen</translation>
+        <source>Sign the message to prove you own this boom address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän boom osoitteen</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -288,8 +288,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>&amp;BIP 38 salauksen avaus</translation>
     </message>
     <message>
-        <source>The PIVX address the message was signed with</source>
-        <translation>PIVX osoite, jolla viesti allekirjoitettiin</translation>
+        <source>The boom address the message was signed with</source>
+        <translation>boom osoite, jolla viesti allekirjoitettiin</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -576,36 +576,36 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>&amp;Apua</translation>
     </message>
     <message>
-        <source>PIVX Core</source>
-        <translation>PIVX Ydin</translation>
+        <source>boom Core</source>
+        <translation>boom Ydin</translation>
     </message>
     <message>
-        <source>Send coins to a PIVX address</source>
-        <translation>Lähetä kolikkoja PIVX osoitteeseen</translation>
+        <source>Send coins to a boom address</source>
+        <translation>Lähetä kolikkoja boom osoitteeseen</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and pivx: URIs)</source>
-        <translation>Pyydä maksuja (Generoi QR koodeja ja pivx: URIja)</translation>
+        <source>Request payments (generates QR codes and boom: URIs)</source>
+        <translation>Pyydä maksuja (Generoi QR koodeja ja boom: URIja)</translation>
     </message>
     <message>
         <source>Browse masternodes</source>
         <translation>Selaa masternodeja</translation>
     </message>
     <message>
-        <source>Show information about PIVX Core</source>
-        <translation>Näytä tietoja PIVX Ytimestä</translation>
+        <source>Show information about boom Core</source>
+        <translation>Näytä tietoja boom Ytimestä</translation>
     </message>
     <message>
-        <source>Modify configuration options for PIVX</source>
-        <translation>Muokkaa konfiguraatio vaihtoehtoja PIVX:lle</translation>
+        <source>Modify configuration options for boom</source>
+        <translation>Muokkaa konfiguraatio vaihtoehtoja boom:lle</translation>
     </message>
     <message>
-        <source>Sign messages with your PIVX addresses to prove you own them</source>
+        <source>Sign messages with your boom addresses to prove you own them</source>
         <translation>Allekirjoita viestejä todistaaksesi, että omistat ne.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified PIVX addresses</source>
-        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä PIVX osoiteella.</translation>
+        <source>Verify messages to ensure they were signed with specified boom addresses</source>
+        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä boom osoiteella.</translation>
     </message>
     <message>
         <source>Encrypt and decrypt private keys using a passphrase</source>
@@ -628,8 +628,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Avaa Masternode konfiguraatiotiedosto</translation>
     </message>
     <message>
-        <source>Open a PIVX: URI or payment request</source>
-        <translation>Avaa PIVX: URI tai pyydä maksua</translation>
+        <source>Open a boom: URI or payment request</source>
+        <translation>Avaa boom: URI tai pyydä maksua</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -640,12 +640,12 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Lohkon tutkija näkymä</translation>
     </message>
     <message>
-        <source>Show the PIVX Core help message to get a list with possible PIVX command-line options</source>
-        <translation>Näytä PIVX Ydin apuviesti saadaksesi lista mahdollisista PIVX komentolinja komennoista.</translation>
+        <source>Show the boom Core help message to get a list with possible boom command-line options</source>
+        <translation>Näytä boom Ydin apuviesti saadaksesi lista mahdollisista boom komentolinja komennoista.</translation>
     </message>
     <message>
-        <source>PIVX Core client</source>
-        <translation>PIVX Ydin asiakasohjelma</translation>
+        <source>boom Core client</source>
+        <translation>boom Ydin asiakasohjelma</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -879,8 +879,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>PIVX Core</source>
-        <translation>PIVX Ydin</translation>
+        <source>boom Core</source>
+        <translation>boom Ydin</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -898,12 +898,12 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to PIVX Core.</source>
-        <translation>Tervetuloa PIVX Ytimeen.</translation>
+        <source>Welcome to boom Core.</source>
+        <translation>Tervetuloa boom Ytimeen.</translation>
     </message>
     <message>
-        <source>PIVX Core</source>
-        <translation>PIVX Ydin</translation>
+        <source>boom Core</source>
+        <translation>boom Ydin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1076,32 +1076,32 @@ Please check the address and try again.</source>
         <translation>Valitse yksityisyyden taso.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 PIV</source>
-        <translation>Käytä 2 erillistä masternodea sekoittaaksesi enintään 10000 PIVX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 BOO</source>
+        <translation>Käytä 2 erillistä masternodea sekoittaaksesi enintään 10000 boom</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 PIV</source>
-        <translation>Käytä 8 erillistä masternodea sekoittaaksesi enintään 10000 PIVX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 BOO</source>
+        <translation>Käytä 8 erillistä masternodea sekoittaaksesi enintään 10000 boom</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Käytä 16 erillistä masternodea</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 PIV to anonymize 10000 PIV</source>
-        <translation>Tämä vaihtoehto on nopein ja maksaa noin ~0.025 PIV anonymoidaksesi 10000 PIVX</translation>
+        <source>This option is the quickest and will cost about ~0.025 BOO to anonymize 10000 BOO</source>
+        <translation>Tämä vaihtoehto on nopein ja maksaa noin ~0.025 BOO anonymoidaksesi 10000 boom</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 PIV to anonymize 10000 PIV</source>
-        <translation>Tämä vaihtoehto on suhteellisen nopea ja maksaa 0.05 PIVX anonymoidaksesi 10000 PIVX</translation>
+        <source>This option is moderately fast and will cost about 0.05 BOO to anonymize 10000 BOO</source>
+        <translation>Tämä vaihtoehto on suhteellisen nopea ja maksaa 0.05 boom anonymoidaksesi 10000 boom</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Tämä on hitain ja turvallisin vaihtoehto. Täydesti anonymisoiminen ei maksa mitään.</translation>
     </message>
     <message>
-        <source>0.1 PIV per 10000 PIV you anonymize.</source>
-        <translation>0.1 per 10000 PIVX, jotka anonymisoit.</translation>
+        <source>0.1 BOO per 10000 BOO you anonymize.</source>
+        <translation>0.1 per 10000 boom, jotka anonymisoit.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1150,12 +1150,12 @@ Please check the address and try again.</source>
         <translation>Ekspertti</translation>
     </message>
     <message>
-        <source>Automatically start PIVX after logging in to the system.</source>
-        <translation>Automaattisesti käynnistä PIVX kun kirjaudut sisään.</translation>
+        <source>Automatically start boom after logging in to the system.</source>
+        <translation>Automaattisesti käynnistä boom kun kirjaudut sisään.</translation>
     </message>
     <message>
-        <source>&amp;Start PIVX on system login</source>
-        <translation>&amp;Aloita PIVX järjestelmän kirjautumisessa</translation>
+        <source>&amp;Start boom on system login</source>
+        <translation>&amp;Aloita boom järjestelmän kirjautumisessa</translation>
     </message>
     <message>
         <source>&amp;Window</source>
@@ -1300,8 +1300,8 @@ Please check the address and try again.</source>
         <translation>Ulos:</translation>
     </message>
     <message>
-        <source>Welcome to the PIVX RPC console.</source>
-        <translation>Tervetuloa PIVX RPC konsoliin.</translation>
+        <source>Welcome to the boom RPC console.</source>
+        <translation>Tervetuloa boom RPC konsoliin.</translation>
     </message>
     <message>
         <source>never</source>
@@ -1488,8 +1488,8 @@ Please check the address and try again.</source>
         <translation>ei</translation>
     </message>
     <message>
-        <source>0 PIV</source>
-        <translation>0 PIV</translation>
+        <source>0 BOO</source>
+        <translation>0 BOO</translation>
     </message>
     <message>
         <source>Choose...</source>
@@ -1593,8 +1593,8 @@ Please check the address and try again.</source>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The PIVX address to sign the message with</source>
-        <translation>PIVX osoite, jolla viesti allekirjoitetaan</translation>
+        <source>The boom address to sign the message with</source>
+        <translation>boom osoite, jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1617,12 +1617,12 @@ Please check the address and try again.</source>
         <translation>Kopioi nykyinen allekirjoitus järjestelmän leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this PIVX address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän PIVX osoitteen</translation>
+        <source>Sign the message to prove you own this boom address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän boom osoitteen</translation>
     </message>
     <message>
-        <source>The PIVX address the message was signed with</source>
-        <translation>PIVX osoite, jolla viesti allekirjoitettiin</translation>
+        <source>The boom address the message was signed with</source>
+        <translation>boom osoite, jolla viesti allekirjoitettiin</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1660,8 +1660,8 @@ Please check the address and try again.</source>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIVX Core</source>
-        <translation>PIVX Ydin</translation>
+        <source>boom Core</source>
+        <translation>boom Ydin</translation>
     </message>
     </context>
 <context>
@@ -1872,7 +1872,7 @@ Please check the address and try again.</source>
     </message>
     </context>
 <context>
-    <name>pivx-core</name>
+    <name>boom-core</name>
     <message>
         <source>Error</source>
         <translation>Virhe</translation>
