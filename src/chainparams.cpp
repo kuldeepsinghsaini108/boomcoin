@@ -141,7 +141,7 @@ public:
 		
 		//printf(hashGenesisBlock);
         assert(hashGenesisBlock == uint256("3c1edca6775f1a1ec232c3e07351f470c290f954e7497e83aba493c1a27b8ea5"));
-        assert(genesis.hashMerkleRoot == uint256("0x"));
+        assert(genesis.hashMerkleRoot == uint256("c861a3f1edebe66c7f823af26f8af75d7858b3262824f4a9a783a900a454cf53"));
 
         vSeeds.push_back(CDNSSeedData("fuzzbawls.pw", "52.78.130.136"));     // Primary DNS Seeder from Fuzzbawls
                   // Single node address
