@@ -137,10 +137,10 @@ public:
         hashGenesisBlock = genesis.GetHash();
 		// printf("%s\n", hash.ToString().c_str());
         printf("%s\n", hashGenesisBlock.ToString().c_str());
-      //  printf("%s\n", block.hashMerkleRoot.ToString().c_str());
+       printf("%s\n", genesis.hashMerkleRoot.ToString().c_str());
 		
 		//printf(hashGenesisBlock);
-        assert(hashGenesisBlock == uint256("0x0"));
+        assert(hashGenesisBlock == uint256("3c1edca6775f1a1ec232c3e07351f470c290f954e7497e83aba493c1a27b8ea5"));
         assert(genesis.hashMerkleRoot == uint256("0x"));
 
         vSeeds.push_back(CDNSSeedData("fuzzbawls.pw", "52.78.130.136"));     // Primary DNS Seeder from Fuzzbawls
