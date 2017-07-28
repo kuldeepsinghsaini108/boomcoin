@@ -135,6 +135,7 @@ public:
         genesis.nNonce = 0;
 
         hashGenesisBlock = genesis.GetHash();
+		printf(hashGenesisBlock);
         assert(hashGenesisBlock == uint256("0x0"));
         assert(genesis.hashMerkleRoot == uint256("0x"));
 
